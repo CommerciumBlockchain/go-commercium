@@ -3,9 +3,9 @@ InstallDir "$InstDir"
 OutFile "${OUTPUTFILE}" # set through command line arguments
 
 # Links for "Add/Remove Programs"
-!define HELPURL "https://github.com/commerciumfoundation/go-commercium/issues"
-!define UPDATEURL "https://github.com/commerciumfoundation/go-commercium/releases"
-!define ABOUTURL "https://github.com/commerciumfoundation/go-commercium#ethereum-go"
+!define HELPURL "https://github.com/CommerciumBlockchain/go-commercium/issues"
+!define UPDATEURL "https://github.com/CommerciumBlockchain/go-commercium/releases"
+!define ABOUTURL "https://github.com/CommerciumBlockchain/go-commercium#ethereum-go"
 !define /date NOW "%Y%m%d"
 
 PageEx license

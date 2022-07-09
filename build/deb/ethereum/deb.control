@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), {{.GoBootPackage}}
 Standards-Version: 3.9.5
 Homepage: https://ethereum.org
-Vcs-Git: git://github.com/commerciumfoundation/go-commercium.git
-Vcs-Browser: https://github.com/commerciumfoundation/go-commercium
+Vcs-Git: git://github.com/CommerciumBlockchain/go-commercium.git
+Vcs-Browser: https://github.com/CommerciumBlockchain/go-commercium
 
 Package: {{.Name}}
 Architecture: any

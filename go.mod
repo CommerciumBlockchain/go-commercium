@@ -1,4 +1,4 @@
-module github.com/commerciumfoundation/go-commercium
+module github.com/CommerciumBlockchain/go-commercium
 
 go 1.13
 
